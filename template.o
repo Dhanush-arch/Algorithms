@@ -11,6 +11,7 @@
 using namespace std;
 const long double PI = acos(-1);
 const ll mod = 1e9 + 7; // 10^9 + 7
+#define INF 1000000000 // Infinity value
 
 //predefined functions
 int power(ll x, ll y, ll m);  //  (x^y)%m
